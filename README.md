@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ArshvirSk/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ArshvirSk/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ArshvirSk/LeetCode/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/ArshvirSk/LeetCode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/ArshvirSk/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ArshvirSk/LeetCode/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArshvirSk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ArshvirSk/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArshvirSk/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/ArshvirSk/LeetCode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/ArshvirSk/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ArshvirSk/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ArshvirSk/LeetCode/tree/master/0202-happy-number) |
@@ -150,4 +152,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ArshvirSk/LeetCode/tree/master/0881-boats-to-save-people) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ArshvirSk/LeetCode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ArshvirSk/LeetCode/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ArshvirSk/LeetCode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ArshvirSk/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
