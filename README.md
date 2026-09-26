@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ArshvirSk/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ArshvirSk/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ArshvirSk/LeetCode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/ArshvirSk/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
 | ------- |
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/ArshvirSk/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/ArshvirSk/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0125-valid-palindrome](https://github.com/ArshvirSk/LeetCode/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/ArshvirSk/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArshvirSk/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArshvirSk/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/ArshvirSk/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
 |  |
 | ------- |
