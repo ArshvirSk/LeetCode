@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ArshvirSk/LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/ArshvirSk/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ArshvirSk/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/ArshvirSk/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ArshvirSk/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/ArshvirSk/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0206-reverse-linked-list](https://github.com/ArshvirSk/LeetCode/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
