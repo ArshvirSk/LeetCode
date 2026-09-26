@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ArshvirSk/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ArshvirSk/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ArshvirSk/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/ArshvirSk/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/ArshvirSk/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ArshvirSk/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/ArshvirSk/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/ArshvirSk/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/ArshvirSk/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,12 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ArshvirSk/LeetCode/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/ArshvirSk/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ArshvirSk/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ArshvirSk/LeetCode/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/ArshvirSk/LeetCode/tree/master/0268-missing-number) |
+| [0881-boats-to-save-people](https://github.com/ArshvirSk/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Quicksort
 |  |
 | ------- |
@@ -142,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/ArshvirSk/LeetCode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ArshvirSk/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/ArshvirSk/LeetCode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
