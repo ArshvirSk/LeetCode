@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ArshvirSk/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ArshvirSk/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ArshvirSk/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0904-fruit-into-baskets](https://github.com/ArshvirSk/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ArshvirSk/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArshvirSk/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ArshvirSk/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0904-fruit-into-baskets](https://github.com/ArshvirSk/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArshvirSk/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArshvirSk/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArshvirSk/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0904-fruit-into-baskets](https://github.com/ArshvirSk/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
