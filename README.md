@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ArshvirSk/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ArshvirSk/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ArshvirSk/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ArshvirSk/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArshvirSk/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArshvirSk/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ArshvirSk/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/ArshvirSk/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/ArshvirSk/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0125-valid-palindrome](https://github.com/ArshvirSk/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ArshvirSk/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ArshvirSk/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ArshvirSk/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ArshvirSk/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/ArshvirSk/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ArshvirSk/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ArshvirSk/LeetCode/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/ArshvirSk/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Quicksort
